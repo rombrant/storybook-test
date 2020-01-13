@@ -1,0 +1,418 @@
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+this file except in compliance with the License. You may obtain a copy of the
+License at http://www.apache.org/licenses/LICENSE-2.0
+
+THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+MERCHANTABLITY OR NON-INFRINGEMENT.
+
+See the Apache Version 2.0 License for specific language governing permissions
+and limitations under the License.
+***************************************************************************** */
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/**
+ * @license
+ * Copyright Google LLC All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://github.com/material-components/material-components-web/blob/master/LICENSE
+ */
+
+/*!****************************************!*\
+  !*** ./packages/mdc-animation/util.ts ***!
+  \****************************************/
+
+/*! no static exports found */
+
+/**
+ * @license
+ * Copyright 2016 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/*!****************************************!*\
+  !*** ./packages/mdc-base/component.ts ***!
+  \****************************************/
+
+/*! ./foundation */
+
+/*!*****************************************!*\
+  !*** ./packages/mdc-base/foundation.ts ***!
+  \*****************************************/
+
+/*!***************************************************!*\
+  !*** ./packages/mdc-linear-progress/component.ts ***!
+  \***************************************************/
+
+/**
+ * @license
+ * Copyright 2017 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/*! @material/base/component */
+
+/*!***************************************************!*\
+  !*** ./packages/mdc-linear-progress/constants.ts ***!
+  \***************************************************/
+
+/*!****************************************************!*\
+  !*** ./packages/mdc-linear-progress/foundation.ts ***!
+  \****************************************************/
+
+/*! @material/animation/util */
+
+/*! @material/base/foundation */
+
+/*! ./constants */
+
+/*!***********************************************!*\
+  !*** ./packages/mdc-linear-progress/index.ts ***!
+  \***********************************************/
+
+/**
+ * @license
+ * Copyright 2019 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/*! ./component */
+
+/*!************************************!*\
+  !*** ./packages/mdc-dom/events.ts ***!
+  \************************************/
+
+/*!**************************************!*\
+  !*** ./packages/mdc-dom/ponyfill.ts ***!
+  \**************************************/
+
+/**
+ * @license
+ * Copyright 2018 Google Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/*!**************************************************!*\
+  !*** ./packages/mdc-floating-label/component.ts ***!
+  \**************************************************/
+
+/*!**************************************************!*\
+  !*** ./packages/mdc-floating-label/constants.ts ***!
+  \**************************************************/
+
+/*!***************************************************!*\
+  !*** ./packages/mdc-floating-label/foundation.ts ***!
+  \***************************************************/
+
+/*!***********************************************!*\
+  !*** ./packages/mdc-line-ripple/component.ts ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./packages/mdc-line-ripple/constants.ts ***!
+  \***********************************************/
+
+/*!************************************************!*\
+  !*** ./packages/mdc-line-ripple/foundation.ts ***!
+  \************************************************/
+
+/*!****************************************!*\
+  !*** ./packages/mdc-list/component.ts ***!
+  \****************************************/
+
+/*! @material/dom/ponyfill */
+
+/*!****************************************!*\
+  !*** ./packages/mdc-list/constants.ts ***!
+  \****************************************/
+
+/*!*****************************************!*\
+  !*** ./packages/mdc-list/foundation.ts ***!
+  \*****************************************/
+
+/*!************************************************!*\
+  !*** ./packages/mdc-menu-surface/component.ts ***!
+  \************************************************/
+
+/*! ./util */
+
+/*!************************************************!*\
+  !*** ./packages/mdc-menu-surface/constants.ts ***!
+  \************************************************/
+
+/*!*************************************************!*\
+  !*** ./packages/mdc-menu-surface/foundation.ts ***!
+  \*************************************************/
+
+/*!*******************************************!*\
+  !*** ./packages/mdc-menu-surface/util.ts ***!
+  \*******************************************/
+
+/*!****************************************!*\
+  !*** ./packages/mdc-menu/component.ts ***!
+  \****************************************/
+
+/*! @material/list/component */
+
+/*! @material/list/foundation */
+
+/*! @material/menu-surface/component */
+
+/*! @material/menu-surface/foundation */
+
+/*!****************************************!*\
+  !*** ./packages/mdc-menu/constants.ts ***!
+  \****************************************/
+
+/*!*****************************************!*\
+  !*** ./packages/mdc-menu/foundation.ts ***!
+  \*****************************************/
+
+/*! @material/list/constants */
+
+/*!***************************************************!*\
+  !*** ./packages/mdc-notched-outline/component.ts ***!
+  \***************************************************/
+
+/*! @material/floating-label/foundation */
+
+/*!***************************************************!*\
+  !*** ./packages/mdc-notched-outline/constants.ts ***!
+  \***************************************************/
+
+/*!****************************************************!*\
+  !*** ./packages/mdc-notched-outline/foundation.ts ***!
+  \****************************************************/
+
+/*!******************************************!*\
+  !*** ./packages/mdc-ripple/component.ts ***!
+  \******************************************/
+
+/*! @material/dom/events */
+
+/*!******************************************!*\
+  !*** ./packages/mdc-ripple/constants.ts ***!
+  \******************************************/
+
+/*!*******************************************!*\
+  !*** ./packages/mdc-ripple/foundation.ts ***!
+  \*******************************************/
+
+/*!*************************************!*\
+  !*** ./packages/mdc-ripple/util.ts ***!
+  \*************************************/
+
+/*!******************************************!*\
+  !*** ./packages/mdc-select/component.ts ***!
+  \******************************************/
+
+/*! @material/floating-label/component */
+
+/*! @material/line-ripple/component */
+
+/*! @material/menu-surface/constants */
+
+/*! @material/menu/component */
+
+/*! @material/menu/constants */
+
+/*! @material/notched-outline/component */
+
+/*! @material/ripple/component */
+
+/*! @material/ripple/foundation */
+
+/*! ./helper-text/component */
+
+/*! ./icon/component */
+
+/*!******************************************!*\
+  !*** ./packages/mdc-select/constants.ts ***!
+  \******************************************/
+
+/*!*******************************************!*\
+  !*** ./packages/mdc-select/foundation.ts ***!
+  \*******************************************/
+
+/*!******************************************************!*\
+  !*** ./packages/mdc-select/helper-text/component.ts ***!
+  \******************************************************/
+
+/*!******************************************************!*\
+  !*** ./packages/mdc-select/helper-text/constants.ts ***!
+  \******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./packages/mdc-select/helper-text/foundation.ts ***!
+  \*******************************************************/
+
+/*!**************************************************!*\
+  !*** ./packages/mdc-select/helper-text/index.ts ***!
+  \**************************************************/
+
+/*!***********************************************!*\
+  !*** ./packages/mdc-select/icon/component.ts ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./packages/mdc-select/icon/constants.ts ***!
+  \***********************************************/
+
+/*!************************************************!*\
+  !*** ./packages/mdc-select/icon/foundation.ts ***!
+  \************************************************/
+
+/*!*******************************************!*\
+  !*** ./packages/mdc-select/icon/index.ts ***!
+  \*******************************************/
+
+/*!**************************************!*\
+  !*** ./packages/mdc-select/index.ts ***!
+  \**************************************/
+
+/*! ./helper-text/index */
+
+/*! ./icon/index */
+
+/*!
+ * https://github.com/es-shims/es5-shim
+ * @license es5-shim Copyright 2009-2015 by contributors, MIT License
+ * see https://github.com/es-shims/es5-shim/blob/master/LICENSE
+ */
+
+/*!
+ * https://github.com/paulmillr/es6-shim
+ * @license es6-shim Copyright 2013-2016 by Paul Miller (http://paulmillr.com)
+ *   and contributors,  MIT License
+ * es6-shim: v0.35.4
+ * see https://github.com/paulmillr/es6-shim/blob/0.35.3/LICENSE
+ * Details and documentation:
+ * https://github.com/paulmillr/es6-shim/
+ */
+
+/*!
+ * isobject <https://github.com/jonschlinkert/isobject>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/*!
+ * is-plain-object <https://github.com/jonschlinkert/is-plain-object>
+ *
+ * Copyright (c) 2014-2017, Jon Schlinkert.
+ * Released under the MIT License.
+ */
+
+/** @license React v16.12.0
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.12.0
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v0.18.0
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.12.0
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
